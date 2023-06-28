@@ -1,4 +1,5 @@
 # throw
+# 1. feladat
 ## NegativSzamException osztály
 
 - Készíts egy osztályt NegativSzamException néven, amely kiterjeszti az Exception osztályt.
@@ -19,3 +20,14 @@ Ha a szám nem negatív, akkor térjen vissza a szám duplájával (2-szereséve
 - A metódus dobjon Exception kivételt.
 - Hozz létre egy Szamit objektumot.
 - Hívd meg a Szamit objektum duplaz metódusát a -3.8 értékkel, és írasd ki az eredményt a konzolra (System.out.println).
+
+# 2. feladat
+## TulKisSzamException osztály
+Hozz létre egy osztályt TulKisSzamException néven, amely az Exception osztályból származik.
+Legyen egy konstruktora, amely egy uzenet nevű szöveges paramétert vár, és meghívja az ősosztály konstruktorát a paraméterrel.
+
+## Haromszog osztály
+Hozz létre egy osztályt Haromszog néven.
+
+## Program01 osztály
+Hozz létre egy osztályt Program01 néven.
